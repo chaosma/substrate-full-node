@@ -3,7 +3,6 @@ panic = 'unwind'
 
 [workspace]
 members = [
-    'bench',
     'browser-testing',
     'cli',
     'executor',
@@ -12,5 +11,4 @@ members = [
     'rpc',
     'rpc-client',
     'runtime',
-    'testing',
 ]
