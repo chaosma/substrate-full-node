@@ -2,7 +2,7 @@
 
 Get the required compiler version and wasm component before compiling.
 
-```bash
+```
 rustup install nightly-2020-10-06
 rustup target add wasm32-unknown-unknown --toolchain nightly-2020-10-06
 
